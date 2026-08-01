@@ -19,12 +19,6 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,github,docker,linux,vscode,azure,aws" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashish73-hub&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish73-hub&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
