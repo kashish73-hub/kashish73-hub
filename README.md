@@ -3,8 +3,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### MCA Student | Cloud Computing & DevOps | Python Developer | Data Analyst
 
-<img align="right" width="350" src="YOUR_GIF_LINK">
-
+<img align="right" width="350">
 <br><br><br><br><br><br><br><br>
 
 ## 👨‍💻 About Me
