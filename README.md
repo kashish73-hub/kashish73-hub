@@ -18,7 +18,11 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,github,docker,linux,vscode,azure,aws" />
 </p>
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kashish73-hub&theme=tokyonight&hide_border=true"/>
+</p>
 ## 🏆 GitHub Trophies
 
 <p align="center">
