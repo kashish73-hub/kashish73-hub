@@ -4,7 +4,7 @@
 ### MCA Student | Cloud Computing & DevOps | Python Developer | Data Analyst
 
 <img align="right" width="350">
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## 👨‍💻 About Me
 - 🎓 MCA Student at Chandigarh University
