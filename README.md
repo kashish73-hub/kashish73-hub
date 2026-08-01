@@ -50,3 +50,9 @@
 | ☁️ **Cloud Cost Estimation Dashboard** | Python dashboard for estimating cloud VM costs |
 | 🗄️ **Cloud Cost Dashboard with Database** | Cloud cost calculator integrated with MySQL |
 | 🧩 **Maze Game** | Interactive Python GUI maze game |
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashish73-hub&theme=github-dark&hide_border=true"/>
+</p>
