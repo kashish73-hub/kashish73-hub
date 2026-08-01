@@ -20,4 +20,33 @@
 </p>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kashish73-hub&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashish73-hub&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish73-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kashish73-hub&theme=tokyonight&hide_border=true"/>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kashish73-hub&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kashish73-hub&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏥 **Swastya Setu** | AI-powered healthcare guidance system |
+| ☁️ **Cloud Cost Estimation Dashboard** | Python dashboard for estimating cloud VM costs |
+| 🗄️ **Cloud Cost Dashboard with Database** | Cloud cost calculator integrated with MySQL |
+| 🧩 **Maze Game** | Interactive Python GUI maze game |
