@@ -9,10 +9,10 @@
 ## 👨‍💻 About Me
 - 🎓 MCA Student at Chandigarh University
 - ☁️ Passionate about Cloud Computing & DevOps
-- 🐍 Python Developer
-- 📊 Interested in Data Analytics
+- ☁️ Cloud Architecture
+- 📊 Interested in Cloud Engineer
 - 🚀 Building Cloud, Python & Automation Projects
-- 🌱 Currently learning Docker, Kubernetes and AWS
+- 🌱 Currently learning Docker, Kubernetes , Jenkins , GitHub , Git , Git Action and AWS. 
 
 ## 🛠️ Languages and Tools
 <p align="left">
